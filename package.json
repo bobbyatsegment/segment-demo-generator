@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@segment/analytics-node": "^2.2.1"
+  },
+  "type": "module"
+}
